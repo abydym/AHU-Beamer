@@ -1,0 +1,15 @@
+\frametitle{Code}
+	\begin{verbatim}
+#include <stdio.h>
+int main() {
+printf("Hello, world!");
+return 0;
+}
+\end{verbatim}
+\begin{lstlisting}[language=C,basicstyle=\tiny\ttfamily,breaklines=true]
+#include <stdio.h>
+int main() {
+printf("Hello, world!");
+return 0;
+}
+  \end{lstlisting}
